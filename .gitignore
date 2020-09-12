@@ -25,8 +25,8 @@ yarn-error.log*
 /.idea
 
 **/.yarn/*
-!.yarn/releases
-!.yarn/plugins
-!.yarn/sdks
-!.yarn/versions
+**/!.yarn/releases
+**/!.yarn/plugins
+**/!.yarn/sdks
+**/!.yarn/versions
 .pnp.*
